@@ -24,7 +24,7 @@ public class Fibonacci {
 
 		// Get Result
 		double result = solveFibonacci(fib, scanner.nextInt());
-		LOGGER.info("Th fibonacci value is: {}", result);
+		LOGGER.info("The fibonacci value is: {}", result);
 	}
 
 	/**
